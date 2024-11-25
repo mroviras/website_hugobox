@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Martí Rovira
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Marti
+last_name: Rovira
 
 # Status emoji
 status:
@@ -20,36 +20,31 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Tenure-Track Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Department of Political and Social Sciences, Universitat Pompeu Fabra
+    url: https://www.upf.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: @MRovira_
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/mroviras
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/marti-rovira-15651931/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.es/citations?user=yqkGwSoAAAAJ&hl
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-3062-9099
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Criminology
+  - Field Experiments
+  - Invisible Punishments
 
 education:
   - area: PhD Artificial Intelligence
@@ -183,4 +178,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a tenure-track Assistant Professor at the Department of Political and Social Sciences at Universitat Pompeu Fabra (Spain) and member of the SocioDemographics Research Group DemoSoc Group. Previously I was a British Academy Postdoctoral Research Fellow at the University of Oxford’s Sociology Department and a Non-stipendiary Postdoctoral Research Fellow at Nuffield College.
+
+My work to date has explored questions about the intersections between social inequalities and the criminal justice system, with a strong focus on the effects of Criminal Background Checks (CBCs) –requests for information on previous convictions for non-judicial purposes-.
+
+In my past research, I have mainly relied upon quantitative methods, including experimental audit designs. Notwithstanding, my work is methodologically plural, and I always strive to keep up to date with methodological developments in criminology, sociology and beyond. In recent years in my work I have relied on computational social science methods
